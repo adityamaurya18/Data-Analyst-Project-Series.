@@ -21,9 +21,5 @@ Documentation and Presentation (Canva) - https://www.canva.com/design/DAGI-Q_1Vg
 Exploratory Data Analysis with Python (Colab Notebook) - https://colab.research.google.com/drive/19tv5iuswAv2TELCUQU9JES2sOocG50KH?usp=sharing
 <br>
 Tableau Dashboard - https://public.tableau.com/views/WeatherDataAnalysisDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
-<br>
-<br>
-**Project 3: IPL Data Analysis**
-<br>
-Exploratory Data Analysis with Python (Colab Notebook)
+
 
