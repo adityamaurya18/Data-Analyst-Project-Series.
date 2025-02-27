@@ -1,5 +1,5 @@
 **# Data Science-Project-Series.**
-This repository contains my projects regarding data science and analytics
+This repository contains my projects regarding data science and analytics which i did during my intern in Nexus Info
 <br>
 **Author - Aditya Maurya**
 <br>
