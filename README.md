@@ -1,4 +1,4 @@
-**# Data Science-Project-Series (Nexus Info).**
+**Nexus Info Projects.**
 This repository contains my projects regarding data science and analytics which i did during my intern in Nexus Info
 <br>
 **Author - Aditya Maurya**
